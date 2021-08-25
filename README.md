@@ -1,3 +1,7 @@
+# Deprecation notice!
+
+This repo is replaced with https://github.com/pharmbio/robotlab-labrobots and will be archived or deleted.
+ 
 # Robot REST-api outline
 The goal of this project is to provide a unified REST-api to all robots in the AROS system. The REST Api will wrap around various existing or non-existing vendor-specific api:s for communication.
 
